@@ -1,3 +1,0 @@
-method,MAP@3,accuracy
-TF-IDF + Logistic Regression,0.5,0.375
-Random expectation,0.36666666666666664,0.2
